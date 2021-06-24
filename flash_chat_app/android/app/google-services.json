@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182821133800",
+    "project_id": "flash-chat-a3575",
+    "storage_bucket": "flash-chat-a3575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182821133800:android:5faadc6aa9f89c45b7d85d",
+        "android_client_info": {
+          "package_name": "com.focus_training.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182821133800-m5bteorhvhekrg6f29lr6vv715jvnqpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeWi9DPt0PP6u2GU5YYmgj5-YLBLUCpm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182821133800-m5bteorhvhekrg6f29lr6vv715jvnqpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
